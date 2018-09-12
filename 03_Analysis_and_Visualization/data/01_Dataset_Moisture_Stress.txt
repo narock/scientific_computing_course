@@ -1,0 +1,14 @@
+The Moisture Stress Index helps measure the effects of drought and catastrophic wetness in the U.S. by measuring national crop yield. 
+Corn and soybean crops are major components of the U.S. farming infrastructure and the Moisture Stress Index uses these two crops to approximate the effects of extreme rain and drought. 
+
+A lack or an abundance of soil moisture during critical phases of the crop growth and development cycle - known as moisture stress - affects U.S. corn and soybean yield.  Soil moisture conditions in July and August were found to be the best indicators of average crop yield for corn and soybeans, and as such, are used in creating the Moisture Stress Index. The Moisture Stress Index ranges from 0 to 100. The value can be interpreted as the percent of crops in the growing region impacted by excessive rain or drought. For example, an index value of 20 implies that 20% of the crop growing region was impact by drought or excessive rain that year. The Moisture Stress index
+doesn't distinguish between stress from drought or stress from extreme rain. It only tell us that stress occured. Thus, an index value
+of 20 tells us that 20% of the crop growing region was impacted by droughts or rain, but not which.
+
+Source: https://www.ncdc.noaa.gov/societal-impacts/cmsi/
+
+The data is available at: http://narock.github.io/teaching/CST-411/visualization/corn_moisture_stress_index.txt 
+
+The data has two columns: year and moisture stress index
+
+The columns are separated by multiple spaces. You can read the data using pandas and the separator ‘\s+’ to indicate multiple spaces.

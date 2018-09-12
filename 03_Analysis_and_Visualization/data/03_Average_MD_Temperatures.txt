@@ -1,0 +1,10 @@
+This dataset provides yearly average maryland temperatures from 1895-2017. The temperatures are in degrees Fahrenheit and the 
+dataset has three columns: Date, Temperature, and Anomoly. 
+
+Missing values are represented by -99. 
+
+The century 1900 to 2000 is used as a baseline. The average temperature during this century was computed and found to be 53.8 degrees Fahrenheit. The Anomoly column is the difference between this baseline temperature and each yearly average. This column can be used to find excessively hot (or cold) years.
+
+Data is available at: http://narock.github.io/teaching/CST-411/visualization/md_avg_temp.csv
+
+Source: https://www.ncdc.noaa.gov/cag/statewide/time-series/18-tavg-12-12-1895-2018.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000

@@ -1,0 +1,9 @@
+This dataset contains data on wildfires in the U.S. The data covers the time period 2000 through 2018.
+
+Source: https://www.ncdc.noaa.gov/societal-impacts/wildfires/
+
+The data is available at: http://narock.github.io/teaching/CST-411/visualization/us_wildfires.csv
+
+The data has four columns: year, number of fires, acres burned, acres burned per fire
+
+The columns are separated by commas and can be read into Python using pandas default read_csv routine.
