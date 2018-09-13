@@ -14,6 +14,10 @@ Topics Covered
 10. Hands-on Applications: Music
 11. A Brief Introduction to Machine Learning
 
+Mini-Projects (short focused assignments on a specific physics/engineering topic)
+1. [Monte Carlo Simulation of Radioactive Decay](https://github.com/narock/scientific_computing_course/tree/master/mini-projects/01_Radioactive_Decay)
+
+
 License
 
 All of my materials are available via the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This course does also include example problems, datasets, and images from around the Web. Where appropriate, external sources are cited both in the slides and in Jupyter Notebooks. Content that is reused is either open licensed or, as I understand it, meets the Fair Use Doctrine for educational reuse. This may not be the case for your intended usage.
