@@ -16,4 +16,4 @@ Topics Covered
 
 License
 
-All of my materials are available via the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This course does also include example problems, datasets, and images from around the Web. Where appropriate, external sources are cited both in the slides and in Jupyter Notebooks Content that is reused is either open licensed or, as I understand it, meets the Fair Use Doctrine for educational reuse. This may not be the case for your intended usage.
+All of my materials are available via the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This course does also include example problems, datasets, and images from around the Web. Where appropriate, external sources are cited both in the slides and in Jupyter Notebooks. Content that is reused is either open licensed or, as I understand it, meets the Fair Use Doctrine for educational reuse. This may not be the case for your intended usage.
