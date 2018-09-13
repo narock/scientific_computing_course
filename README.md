@@ -2,12 +2,17 @@
 Materials for my undergraduate scientific computing course at [Notre Dame of Maryland University](http://ndm.edu)
 
 Topics Covered
-1. Introduction to Jupyter, Markdown, and review of Python
-2. Scientific Libraries: Pandas, Numpy, Matplotlib, and Scipy
-3. Monte Carlo Simulations 
-4. Numerical Modeling
-5. Introduction to Complexity
-6. ... More to Come
+1. [Introduction to Jupyter, Markdown, and review of Python](https://github.com/narock/scientific_computing_course/tree/master/01_Intro)
+2. [Scientific Libraries: Pandas, Numpy, Matplotlib, and Scipy](https://github.com/narock/scientific_computing_course/tree/master/02_Libraries)
+3. [Hands-on Analysis and Visualization](https://github.com/narock/scientific_computing_course/tree/master/03_Analysis_and_Visualization)
+4. Monte Carlo Simulations 
+5. Simulation and Modeling: Introduction to Complexity
+6. Least Squares Fitting
+7. Gradient Decent 
+8. Sorting Algorithms
+9. FFT
+10. Hands-on Applications: Music
+11. Hands-on Applications: Environmental Science
 
 License
 
