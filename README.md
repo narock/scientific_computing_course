@@ -12,7 +12,7 @@ Topics Covered
 8. Sorting Algorithms
 9. FFT
 10. Hands-on Applications: Music
-11. Hands-on Applications: Environmental Science
+11. A Brief Introduction to Machine Learning
 
 License
 
