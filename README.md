@@ -1,5 +1,5 @@
 # scientific_computing_course
-Materials for my undergraduate scientific computing course at [Notre Dame of Maryland University](http://ndm.edu)
+Materials for [my](http://narock.github.io) undergraduate scientific computing course at [Notre Dame of Maryland University](http://ndm.edu)
 
 Topics Covered
 1. [Introduction to Jupyter, Markdown, and review of Python](https://github.com/narock/scientific_computing_course/tree/master/01_Intro)
