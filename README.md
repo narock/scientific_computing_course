@@ -9,12 +9,12 @@ Topics Covered
 5. [Simulation and Modeling: Introduction to Complexity](https://github.com/narock/scientific_computing_course/tree/master/05_Simulation_and_Complexity)
 6. [Model Fitting](https://github.com/narock/scientific_computing_course/tree/master/06_Model_Fitting)
 7. [Gradient Decent](https://github.com/narock/scientific_computing_course/tree/master/07_Gradient_Descent)
-8. FFT
-9. Numerical Integration
-10. A Little More On Machine Learning
+8. [FFT](https://github.com/narock/scientific_computing_course/tree/master/08_Waves_and_FFT)
+9. [Derivatives and Numerical Integration](https://github.com/narock/scientific_computing_course/tree/master/09_Integration_and_Derivatives)
 
 Mini-Projects (short focused assignments on a specific physics/engineering topic)
 1. [Monte Carlo Simulation of Radioactive Decay](https://github.com/narock/scientific_computing_course/tree/master/mini-projects/01_Radioactive_Decay)
+2. [Radiation and Wavelength via Numerical Intgration](https://github.com/narock/scientific_computing_course/tree/master/mini-projects/02_Radiation_and_Wavelength)
 
 
 License
